@@ -6,7 +6,6 @@ I have been interested in tech and coding from an early age. Now I am a full sta
 
 Skills:  REACT / Node/JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
